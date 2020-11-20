@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+<title> Ramayan </title>
+</head>
+<body style="background-color:rgb(27,111,140);">
+<center></br>
+<image src="C:\Users\kmarri\Desktop\School\HTML\pics\main.jpg" style=width:25%;height:25%>
+<br><br>
+<font size=10 color=White> <marquee>Ramayana the Epic</marquee> </b></font><br></center></image>
+<p align=justify>
+<font size=5 color=white>
+Ramayana is one of the two major Sanskrit epics of ancient India, 
+the other being the Mahābhārata. Along with the Mahābhārata, it forms the Hindu Itihasa.
+The epic, traditionally ascribed to the Maharishi Valmiki, narrates the life of Rama, 
+prince of the legendary kingdom of Kosala. The story follows his fourteen-year exile 
+to the forest urged by his father King Dasharatha, on the request of Rama's stepmother 
+Kaikeyi; his travels across forests in Bharath with his wife Sita and brother 
+Lakshmana, the kidnapping of Sita by Ravana -the king of Lanka, that resulted in war; 
+and Rama's eventual return to Ayodhya to be crowned king amidst jubilation and celebration.
+There have been many attempts to unravel the epic's historical growth and 
+compositional layers; various recent scholars' estimates for the earliest stage of the
+ text range from the 7th to 4th centuries BCE with later stages extending up to the 3rd century CE.
+The Ramayana is one of the largest ancient epics in world literature. It consists of 
+nearly 24,000 verses (mostly set in the Shloka/Anustubh meter), divided into five 
+kāṇḍas: the ayodhyakāṇḍa, the araṇyakāṇḍa, the kiṣkindakāṇḍa, the sundarākāṇḍa, and 
+the laṅkākāṇḍa. and about 500 sargas (chapters).The uttarākāṇḍa,the bālakāṇḍa, 
+although frequently counted among the main ones, is not a part of the original epic. 
+Though Balakanda is sometimes considered in the main epic, according to many 
+Uttarakanda is certainly a later interpolation and thus is not attributed to the work 
+of Maharshi Valmiki. In Hindu tradition, the Ramayana is considered to be the 
+Adi-kavya (first poem). It depicts the duties of relationships, portraying ideal 
+characters like the ideal father, the ideal servant, the ideal brother, the ideal 
+husband and the ideal king. The Ramayana was an important influence on later Sanskrit 
+poetry and Hindu life and culture. Its most important moral influence was the 
+importance of virtue, in the life of a citizen and in the ideals of the formation of a 
+state or of a functioning society.
+</font></p>
+<h1><font color=white>Ramayana is divided into seven kandas:- </h1>
+<h2><p align=left>
+	<a href="C:\Users\kmarri\Desktop\School\HTML\pics\balakanda.html"style="color:white">
+	1) Bala Kanda </p></h2></font>
+<h2><p align=left>
+	<a href="C:\Users\kmarri\Desktop\School\HTML\pics\ayodhya kanda.html"style="color:white">
+	2) Ayodhya Kanda</p></h2></font>
+<h2><p align=left>
+	<a href="C:\Users\kmarri\Desktop\School\HTML\pics\Aranya Kanda.html" style="color:white">
+    3) Aranya Kanda </p></h2></font>
+<h2><p align=left>
+	<a href="C:\Users\kmarri\Desktop\School\HTML\pics\Kishkindha Kanda.html" style="color:white">
+	4) Kishkindha Kanda</p></h2> </font>
+<h2><p align=left>
+	<a href="C:\Users\kmarri\Desktop\School\HTML\pics\Sundara Kanda.html" style="color:white">
+	5) Sundara Kanda </p></h2></font>
+<h2><p align=left>
+	<a href="C:\Users\kmarri\Desktop\School\HTML\pics\Yuddha Kanda.html" style="color:white">
+	6) Yuddha Kanda </p></h2></font>
+<h2><p align=left>
+	<a href="C:\Users\kmarri\Desktop\School\HTML\pics\Uttara Kanda.html" style="color:white">
+	7) Uttara Kanda </p></h2></font>
+</p>
+</body>
+</html>
